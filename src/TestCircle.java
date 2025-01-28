@@ -10,7 +10,7 @@ public class TestCircle {  // Save as "TestCircle.java"
       //The circle has radius of 1.0 and area of 3.141592653589793
    
       // Declare an instance of class circle called c2.
-      // Construct the instance c2 by invoking the second constructor
+      // Construct the in stance c2 by invoking the second constructor
       // with the given radius and default color.
       Circle c2 = new Circle(2.0);
       // Invoke public methods on instance c2, via dot operator.
