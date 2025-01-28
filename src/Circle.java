@@ -21,7 +21,7 @@ public class Circle {  // Save as "Circle.java"
      return radius; 
    }
    
-   /** Returns the area of this Circle instance */
+   /** Returns the area of this Circle i nstance */
    public double getArea() {
       return radius*radius*Math.PI;
    }
